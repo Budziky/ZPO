@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37114BA0-AE1A-40B6-A69D-2C8E65FFB405}|Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em.csproj|c:\\users\\milosz\\source\\repos\\aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37114BA0-AE1A-40B6-A69D-2C8E65FFB405}|Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em.csproj|solutionrelative:aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37114BA0-AE1A-40B6-A69D-2C8E65FFB405}|Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em.csproj|c:\\users\\milosz\\source\\repos\\aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37114BA0-AE1A-40B6-A69D-2C8E65FFB405}|Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em.csproj|solutionrelative:aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37114BA0-AE1A-40B6-A69D-2C8E65FFB405}|Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em.csproj|c:\\users\\milosz\\source\\repos\\aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37114BA0-AE1A-40B6-A69D-2C8E65FFB405}|Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em.csproj|solutionrelative:aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37114BA0-AE1A-40B6-A69D-2C8E65FFB405}|Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em.csproj|c:\\users\\milosz\\source\\repos\\aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37114BA0-AE1A-40B6-A69D-2C8E65FFB405}|Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em.csproj|solutionrelative:aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37114BA0-AE1A-40B6-A69D-2C8E65FFB405}|Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em.csproj|C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37114BA0-AE1A-40B6-A69D-2C8E65FFB405}|Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em.csproj|solutionrelative:aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37114BA0-AE1A-40B6-A69D-2C8E65FFB405}|Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em.csproj|c:\\users\\milosz\\source\\repos\\aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37114BA0-AE1A-40B6-A69D-2C8E65FFB405}|Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em.csproj|solutionrelative:aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37114BA0-AE1A-40B6-A69D-2C8E65FFB405}|Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em.csproj|c:\\users\\milosz\\source\\repos\\aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37114BA0-AE1A-40B6-A69D-2C8E65FFB405}|Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em.csproj|solutionrelative:aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37114BA0-AE1A-40B6-A69D-2C8E65FFB405}|Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em.csproj|c:\\users\\milosz\\source\\repos\\aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37114BA0-AE1A-40B6-A69D-2C8E65FFB405}|Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em.csproj|solutionrelative:aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37114BA0-AE1A-40B6-A69D-2C8E65FFB405}|Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em.csproj|c:\\users\\milosz\\source\\repos\\aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37114BA0-AE1A-40B6-A69D-2C8E65FFB405}|Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em.csproj|solutionrelative:aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37114BA0-AE1A-40B6-A69D-2C8E65FFB405}|Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em.csproj|c:\\users\\milosz\\source\\repos\\aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37114BA0-AE1A-40B6-A69D-2C8E65FFB405}|Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em.csproj|solutionrelative:aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form2.Designer.cs",
+              "RelativeToolTip": "Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form2.Designer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T10:09:24.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form1.Designer.cs",
+              "RelativeToolTip": "Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form1.Designer.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowI0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:03:49.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Class1.cs",
+              "RelativeDocumentMoniker": "Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Class1.cs",
+              "ToolTip": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Class1.cs",
+              "RelativeToolTip": "Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Class1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAswBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:14:23.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form1.cs",
+              "RelativeDocumentMoniker": "Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form1.cs",
+              "ToolTip": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form1.cs",
+              "RelativeToolTip": "Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:10:26.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form2.cs",
+              "RelativeDocumentMoniker": "Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form2.cs",
+              "ToolTip": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form2.cs",
+              "RelativeToolTip": "Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form2.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:54:06.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form1.cs",
+              "RelativeDocumentMoniker": "Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form1.cs",
+              "ToolTip": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T11:35:36.078Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form2.cs",
+              "RelativeDocumentMoniker": "Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form2.cs",
+              "ToolTip": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form2.cs [Projekt]",
+              "RelativeToolTip": "Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form2.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:54:02.677Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form3.cs",
+              "RelativeDocumentMoniker": "Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form3.cs",
+              "ToolTip": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form3.cs [Projekt]",
+              "RelativeToolTip": "Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form3.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T10:27:59.4Z",
+              "EditorCaption": " [Projekt]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form3.cs",
+              "RelativeDocumentMoniker": "Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form3.cs",
+              "ToolTip": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form3.cs",
+              "RelativeToolTip": "Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form3.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T10:28:02.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\Milosz\\source\\repos\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form3.Designer.cs",
+              "RelativeToolTip": "Aplikacja do zarz\u0105dzania projektami i zespo\u0142em\\Form3.Designer.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAiwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T10:35:42.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
