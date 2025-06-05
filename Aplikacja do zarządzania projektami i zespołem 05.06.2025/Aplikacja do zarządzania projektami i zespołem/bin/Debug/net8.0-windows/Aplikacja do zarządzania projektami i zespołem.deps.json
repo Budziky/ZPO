@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aplikacja do zarządzania projektami i zespołem/1.0.0": {
+        "runtime": {
+          "Aplikacja do zarządzania projektami i zespołem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aplikacja do zarządzania projektami i zespołem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
