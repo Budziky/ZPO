@@ -1,0 +1,112 @@
+{
+  "Users": [
+    {
+      "Id": "09b5ea37-73fb-4d53-a79d-b41069c51215",
+      "Name": "Jan Nowak",
+      "Email": "Nowak@test.com",
+      "PhoneNumber": "111 111 111"
+    },
+    {
+      "Id": "3c5efb1a-8f5b-4293-821b-fdd7706d0d95",
+      "Name": "Pawe\u0142 Nowak",
+      "Email": "nowak@test.com",
+      "PhoneNumber": "111 111 111"
+    },
+    {
+      "Id": "1f9835ff-a86d-4624-94f0-ef7c22e8175e",
+      "Name": "Kamil Bednarek",
+      "Email": "kamil.kamil@gmail.com",
+      "PhoneNumber": "600-300-111"
+    }
+  ],
+  "Projects": [
+    {
+      "Id": "943ba019-f334-4093-a6e8-17f03131161a",
+      "Name": "Testowy projekt",
+      "Description": "Testowy Opis",
+      "Tasks": [
+        {
+          "Status": 1,
+          "Priority": 0,
+          "AssignedUserIds": [
+            "3c5efb1a-8f5b-4293-821b-fdd7706d0d95"
+          ],
+          "Id": "0511d13a-1ad6-4e17-b4a1-8eec442a3305",
+          "Title": "Testowy tytul ",
+          "Description": "testowy opis",
+          "CreatedAt": "2025-06-05T19:15:22.5009797+02:00",
+          "DueDate": "2025-06-06T00:00:00"
+        },
+        {
+          "Status": 0,
+          "Priority": 2,
+          "AssignedUserIds": [
+            "09b5ea37-73fb-4d53-a79d-b41069c51215"
+          ],
+          "Id": "5363bc54-d982-4b10-b7df-426f67d9ec82",
+          "Title": "Gospoda",
+          "Description": "Projekt gosposy",
+          "CreatedAt": "2025-06-05T23:07:28.9149092+02:00",
+          "DueDate": "2025-06-30T00:00:00"
+        },
+        {
+          "Status": 2,
+          "Priority": 2,
+          "AssignedUserIds": [
+            "09b5ea37-73fb-4d53-a79d-b41069c51215",
+            "3c5efb1a-8f5b-4293-821b-fdd7706d0d95"
+          ],
+          "Id": "44303160-d47d-4617-8c98-c072ab63f60b",
+          "Title": "Dom",
+          "Description": "Budowa domu.",
+          "CreatedAt": "2025-06-06T13:23:17.3721319+02:00",
+          "DueDate": "2025-06-05T00:00:00"
+        }
+      ],
+      "TeamMemberIds": [
+        "3c5efb1a-8f5b-4293-821b-fdd7706d0d95",
+        "09b5ea37-73fb-4d53-a79d-b41069c51215"
+      ],
+      "CreatedAt": "2025-06-05T19:14:44.2700569+02:00",
+      "Deadline": null
+    },
+    {
+      "Id": "f0c71353-5a60-402d-b622-a5f9247bb52a",
+      "Name": "Baza danych",
+      "Description": "Zbudowanie bazy danych.",
+      "Tasks": [
+        {
+          "Status": 1,
+          "Priority": 2,
+          "AssignedUserIds": [
+            "1f9835ff-a86d-4624-94f0-ef7c22e8175e"
+          ],
+          "Id": "55dafed5-85d6-40d2-91b8-5f572e39733c",
+          "Title": "Budowa bazy",
+          "Description": "Zbudowanie bazy danych.",
+          "CreatedAt": "2025-06-06T13:51:55.1759116+02:00",
+          "DueDate": "2025-06-30T00:00:00"
+        },
+        {
+          "Status": 0,
+          "Priority": 1,
+          "AssignedUserIds": [
+            "09b5ea37-73fb-4d53-a79d-b41069c51215",
+            "1f9835ff-a86d-4624-94f0-ef7c22e8175e"
+          ],
+          "Id": "d13692da-468e-40e8-b481-70e1055ccd93",
+          "Title": "Po\u0142\u0105czenie bazy",
+          "Description": "Po\u0142\u0105czenie bazy danych z chmur\u0105.",
+          "CreatedAt": "2025-06-06T13:52:42.2085492+02:00",
+          "DueDate": "2025-08-01T00:00:00"
+        }
+      ],
+      "TeamMemberIds": [
+        "1f9835ff-a86d-4624-94f0-ef7c22e8175e",
+        "09b5ea37-73fb-4d53-a79d-b41069c51215"
+      ],
+      "CreatedAt": "2025-06-06T13:51:17.6900931+02:00",
+      "Deadline": null
+    }
+  ]
+}
